@@ -22,8 +22,8 @@ title: Summer Research 2020
 email: jay.baptista@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! This site is used to publish my personal progress on my Summer 2020 Research project under the STARS Summer fellowship.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/research_summer_2020" # the subpath of your site, e.g. /blog
+url: "jaybaptista.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jaybaptista
 root: /octo-5
 
