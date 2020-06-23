@@ -55,5 +55,3 @@ We plot the probability overlay:
 ![boo1]({{site.baseurl}}/images/isochrone/boo1_prob.png)
 ![pal13]({{site.baseurl}}/images/isochrone/pal13_prob.png)
 ![w1]({{site.baseurl}}/images/isochrone/w1_prob.png)
-
-**WORK IN PROGRESS**
