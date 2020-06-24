@@ -11,7 +11,7 @@ mathjax: true
 * TOC
 {:toc}
 
-# Isochrones Continued
+# Objectives
 
 In an effort to explore the practicality of isochrones in my research, I'll be working with calculating the membership probabiltiy of a star within a target galaxy by using the Collins' method described in [this paper](https://arxiv.org/abs/1910.12879).
 
